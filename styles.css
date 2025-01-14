@@ -1,0 +1,89 @@
+.one{
+    color:lightgreen;
+    font-size:70px;
+}
+.two{
+    color:lightgreen;
+    font-size:50px;
+
+}
+#picture1{
+    display: inline-block;
+    position: relative;
+    left:800px;
+    bottom:250px;
+    width: 500px;
+    height: 300px;
+}
+body{
+    background-color:lemonchiffon;
+}
+.titus{
+    display:inline-block;
+    position: relative;
+    bottom:200px;
+    font-size: 40px;
+}
+#picture2{
+    display:inline-block;
+    position: relative;
+    bottom:600px;
+    width: 600px;
+    height: 500px;
+}
+.pee {
+    position: relative;
+    left: 700px;
+    font-size: 35px;
+    bottom: 200px;
+}
+.fart {
+    font-size: 35px;
+    display: inline-block;
+    position: relative;
+    bottom: 500px;
+}
+#picture7{
+    width:1280px;
+    height:800px;
+}
+#picture9{
+    width: 400px;
+    height: 500px;
+}
+#picture8{
+    width: 400px;
+    height: 500px;
+}
+#picture10{
+    width:400px;
+    height: 500px;
+}
+#picture11{
+    width:400px;
+    height: 500px;
+}
+#picture12{
+    width:400px;
+    height: 500px;
+}
+#picture13{
+    width:400px;
+    height: 500px;
+}
+#picture14{
+    width:400px;
+    height: 500px;
+}
+#picture15{
+    width:400px;
+    height: 500px;
+}
+#picture16{
+    width:400px;
+    height: 500px;
+}
+#picture17{
+    width:400px;
+    height: 500px;
+}
